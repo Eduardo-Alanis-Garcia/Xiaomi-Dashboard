@@ -1,0 +1,19 @@
+# Archivos
+Datos/
+
+# R / RStudio
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj.user/*
+.RDataTmp
+
+# R environment and config (often contain secrets)
+.Renviron
+.Renviron.local
+.Renviron.*.local
+.Rprofile
+.Rprofile.local
+
